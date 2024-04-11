@@ -1,4 +1,4 @@
-package TMS.TaskStar;
+package TMS.TaskStarReflection;
 
 public class Apple {
     private String color;

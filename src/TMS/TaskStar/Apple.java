@@ -1,5 +1,5 @@
-package TMS;
-
+package TMS.TaskStar;
+//решение задачи со звездочкой с помощью вложенного класса
 public class Apple {
     private String color;
 
